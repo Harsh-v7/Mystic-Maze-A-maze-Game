@@ -1,1 +1,1 @@
-# Mystic Maze
+# Mystic-Maze
