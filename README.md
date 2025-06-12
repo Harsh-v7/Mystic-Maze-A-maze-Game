@@ -4,7 +4,7 @@ Mystic Maze is a C# and Unity-powered interactive 2D/3D maze exploration game bu
 
 ---
 
-## 🚀 Features
+## Features
 
 * 🧩 Multiple Levels: Designed progressive maze challenges with increasing difficulty.
 * 🤖 Intelligent Enemies: Implemented pathfinding algorithms (A\*, BFS) to simulate enemy chase mechanics.
@@ -23,7 +23,7 @@ Mystic Maze is a C# and Unity-powered interactive 2D/3D maze exploration game bu
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 ```
 MysticMaze/
@@ -41,7 +41,7 @@ MysticMaze/
 
 ---
 
-## 🧪 Gameplay Highlights
+## Gameplay Highlights
 
 * WASD keys for movement
 * Real-time collision detection
