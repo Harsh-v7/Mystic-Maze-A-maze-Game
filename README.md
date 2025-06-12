@@ -49,12 +49,4 @@ MysticMaze/
 * Timer + level resets
 
 ---
-
-## 📂 Resume Highlights
-
-* Designed and implemented full-stack gameplay logic for a Unity-based maze game
-* Applied A\* and BFS pathfinding algorithms for real-time enemy AI movement
-* Created and optimized original assets using Blender and Unity
-
----
 > Created by Harsh Verma
