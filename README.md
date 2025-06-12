@@ -57,7 +57,4 @@ MysticMaze/
 * Created and optimized original assets using Blender and Unity
 
 ---
-
-## 👤 Author
-
-Harsh Verma | harsh-v7 on GitHub
+> Created by Harsh Verma
